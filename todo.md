@@ -1,0 +1,33 @@
+- liens utiles
+    - functional experts
+    - credentials
+    - PO spreadsheet
+    - Odoo doc
+    - Changes that can be made in stable branch
+    - FAQ HR
+- debug js
+- vscode py debug configuration
+- vscode useful extensions
+- Investigation technic
+    - debug write
+- odoo internal debug tools
+- support tools
+    - send mail
+    - clone db
+    - duplicate db
+- useful scripts
+    - save db script
+    - clone db
+- setup git
+- make a pull request
+- Odoo tests
+- use runbot
+- Choose and take care of a ticket
+- odoosoup
+- browserstack
+    - ngork
+- translation fix (Transifex, .pot, .po)
+- messages to customers
+    - fr
+    - en
+    - es
